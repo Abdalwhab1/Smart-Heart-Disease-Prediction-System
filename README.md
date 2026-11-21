@@ -1,1 +1,0 @@
-# Smart-Heart-Disease-Prediction-System
